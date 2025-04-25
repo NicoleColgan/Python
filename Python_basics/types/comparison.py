@@ -1,0 +1,5 @@
+print(1==1)
+print(1==1 and 2!=2 and 3<4)
+print (1==1 and not 1==2)
+print('n' in 'nicole')
+print(1 in [1,2,3])
